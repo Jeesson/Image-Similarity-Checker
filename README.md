@@ -25,7 +25,7 @@
 ## Использование
 Запустите скрипт и следуйте инструкциям:
 ```bash
-python image_checker.py
+python image_similarity_checker.py
 ```
 
 ## Режимы работы
